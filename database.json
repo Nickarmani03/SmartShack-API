@@ -1,0 +1,173 @@
+{
+    "devices": [
+      {
+        "id": 1,
+        "name": "TP-Link Plug",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/72/eed545b062964ea67f6b317527876cd5a0996e6e.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart plug",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1508080619498,
+        "roomId": 1,
+        "familyMemberId": 1
+      },
+      {
+        "id": 2,
+        "name": "Wemo Plug",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart plug",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1623340667,
+        "roomId": 1,
+        "familyMemberId": 2
+      },
+      {
+        "id": 3,
+        "name": "WeMo Switch",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart light switch",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1623167867,
+        "roomId": 2,
+        "familyMemberId": 3
+      },
+      {
+        "id": 4,
+        "name": "Lutron - Caséta",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart light switch",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1623513467,
+        "roomId": 3,
+        "familyMemberId": 4
+      },
+      {
+        "id": 5,
+        "name": "Ecobee - Switch+ Smart Light",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart light switch",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1623513467,
+        "roomId": 4,
+        "familyMemberId": 2
+      },
+      {
+        "id": 6,
+        "name": "C by GE",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart light switch",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1623513467,
+        "roomId": 2,
+        "familyMemberId": 2        
+      },
+      {
+        "id": 7,
+        "name": "Philips - Hue",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart light switch",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1621871867,
+        "roomId": 3,
+        "familyMemberId": 3
+      },
+      {
+        "id": 8,
+        "name": "Leviton - Decora",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart light switch",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1621699067,
+        "roomId": 3,
+        "familyMemberId": 2
+      },
+      {
+        "id": 9,
+        "name": "RunLessWire - Click",
+        "img": "https://smashicons.com/uploads/media/icon_thumbnail/0004/73/6e8018843a7cc06530f7750f32c0d7e74a706884.png",
+        "type": "Wifi Smart Plug",
+        "description": "A smart light switch",
+        "ipAdress": 1921681254,
+        "isBluetooth boolean": false,
+        "isWifi boolean": true,
+        "dateAdded": 1620835067,
+        "roomId": 2,
+        "familyMemberId": 2        
+      }
+    ],
+    "familyMember": [
+        {
+        "id": 1,
+        "name": "Dad",
+        "img": "https://icon-library.com/images/blank-image-icon/blank-image-icon-12.jpg",        
+        "age": 36,
+        "email": ""
+      },
+      {
+        "id": 2,
+        "name": "Mom",
+        "img": "https://icon-library.com/images/blank-image-icon/blank-image-icon-12.jpg",        
+        "age": 34,
+        "email": ""
+      },
+      {
+        "id": 3,
+        "name": "Billy",
+        "img": "https://icon-library.com/images/blank-image-icon/blank-image-icon-12.jpg",        
+        "age": 16,
+        "email": ""
+      },
+      {
+        "id": 4,
+        "name": "Bobby",
+        "img": "https://icon-library.com/images/blank-image-icon/blank-image-icon-12.jpg",        
+        "age": 14,
+        "email": ""
+      }
+    ],
+    "rooms": [
+      {
+        "id": 1,
+        "name": "Master Bedroom",
+        "deviceId": 1
+      },
+      {
+        "id": 2,
+        "name": "Theater Room",
+        "deviceId": 5
+      },
+      {
+        "id": 3,
+        "name": "Kids Room 1",
+        "deviceId": 2
+      },
+      {
+        "id": 4,
+        "name": "Kids Room 2",
+        "deviceId": 3       
+      }
+    ]
+  }
